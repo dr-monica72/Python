@@ -20,5 +20,13 @@ while (i==0):
     elif ch=="stop":
         i=1
         print("Bye Sir")
+    elif ch=="i said stop it":
+        i=1
+        print("Okay Sir")
+    elif ch=="would you stop":
+        i=1
+        print("Aye aye Captain!!")
+    elif ch=="can you stop":
+        print("But I don't want to    ಥ_ಥ")
     elif ch=="glad to have you back buddy":
         print("That's my Pleasure, Boss")
