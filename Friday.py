@@ -1,9 +1,7 @@
 from datetime import datetime
 import speech_recognition as sr
-
-
-i=0
-while (i==0):
+i=1
+while (i==1):
     ch=str(input("What's your command: "))
     if ch=="hey friday":
         print("What's up, Boss")
