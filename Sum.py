@@ -1,5 +1,5 @@
-x=int(input("Enter a number: "))
-y=int(input("Enter a number: "))
-z=x+y
-print(" The sum is ",z)
+a=int(input("Enter a number: "))
+b=int(input("Enter a number: "))
+c=a+b
+print(" The sum of a and b is ",c)
 input()
