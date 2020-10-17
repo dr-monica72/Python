@@ -1,5 +1,5 @@
-x=int(input("first number:"))
-y=int(input("second number:"))
-z=x*y
-print("product of the numbers is",z)
+a=int(input("first number:"))
+b=int(input("second number:"))
+c=a*b
+print("The product of a and b is ",c)
 input()
